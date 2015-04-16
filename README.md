@@ -1,4 +1,7 @@
 # learning_git
+This is a new edit 2
+
+
 this is a new commit 1
 
 
